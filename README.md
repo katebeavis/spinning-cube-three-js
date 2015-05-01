@@ -4,7 +4,7 @@ This is my first attempt at 3D computer graphics using WebGL and the Three.js li
 
 ## Screenshot
 <div align="center">
-  <img width="90%" src="images/spinning-cube.png">
+  <img width="50%" src="images/spinning-cube.png">
 </div>
 
 ## To Run
